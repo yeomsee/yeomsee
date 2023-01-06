@@ -1,6 +1,7 @@
 ### Welcome to Sihyeong's GitHub! 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YeomSEE GitHub!&fontSize=90" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
 
 <!--
 **yeomsee/yeomsee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
