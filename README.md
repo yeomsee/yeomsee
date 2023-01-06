@@ -1,6 +1,4 @@
 ### Welcome to Sihyeong's GitHub!!!
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 
 Skills: Python / R
 
