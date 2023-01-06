@@ -1,4 +1,4 @@
-### Welcome to Sihyeong's GitHub!!!
+# Welcome to Sihyeong's GitHub!!!
 
 Skills: Python / R
 
