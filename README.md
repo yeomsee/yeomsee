@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sihyeong!
+### Welcome to Sihyeong's GitHub!!!
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
