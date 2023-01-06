@@ -12,8 +12,6 @@ Skills: Python / R
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yeomsee&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yeomsee)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=yeomsee)  
 
 ![Profile views](https://gpvc.arturio.dev/yeomsee)  
