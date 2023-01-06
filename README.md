@@ -1,21 +1,21 @@
-### Welcome to Sihyeong's GitHub!!! 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=YeomSEE's%20GitHub!&fontSize=90)
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<!--
-**yeomsee/yeomsee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Sihyeong!
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning DataAnalysis
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: yeomsee97@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Python / R
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeomsee&count_bg=%233DC8BA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
+- 🌱 I’m currently learning DataAnalysis 
+- 📫 How to reach me: yeomsee97@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yeomsee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/염시형)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yeom._.see/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeomsee)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yeomsee&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yeomsee)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=yeomsee)  
+
+![Profile views](https://gpvc.arturio.dev/yeomsee)  
