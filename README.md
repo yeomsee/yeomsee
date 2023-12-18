@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
 
 - 🌱 I’m currently learning RecSys and NLP!
-- 📫 How to reach me: yeomsee97@gmail.com 
+- 📫 How to reach me : yeomsee97@gmail.com
 
 ---
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yeomsee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/염시형)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yeom.__.see/)  
