@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"/>
 
-- 🌱 I’m currently learning RecSys and NLP!
+- 🌱 I’m currently learning NLP!
 - 📫 How to reach me : yeomsee97@gmail.com
 
 ---
