@@ -3,7 +3,7 @@
 ### ✅Skills: Python
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
-- 🌱 I’m currently learning NLP!
+- 🌱 Currenlty in Konkuk University NLP Lab.
 - 📫 How to reach me : yeomsee97@gmail.com
 
 ---
